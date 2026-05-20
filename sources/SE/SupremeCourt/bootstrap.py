@@ -488,7 +488,7 @@ def main():
                        help="Command to run")
     parser.add_argument('--sample', action='store_true',
                        help="Fetch sample records only")
-    parser.add_argument('--count', type=int, default=12,
+    parser.add_argument('--sample-size', type=int, default=12,
                        help="Number of sample records to fetch")
     parser.add_argument('--court', type=str, default='HDO',
                        help="Court code filter (e.g., HDO, HFD). Use '' for all courts")
@@ -525,7 +525,7 @@ def main():
 
     elif args.command == 'bootstrap':
         court = args.court if args.court else None
-        success = bootstrap_sample(args.count, court_code=court)
+        success = bootstrap_sample(args.sample_size, court_code=court)
         sys.exit(0 if success else 1)
 
     elif args.command == 'fetch':

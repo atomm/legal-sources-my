@@ -1,0 +1,18 @@
+{
+  "_id": "ECLI_FI_KKO_2025_16",
+  "_source": "FI/SupremeCourt",
+  "_type": "case_law",
+  "_fetched_at": "2026-05-20T10:24:53.810358+00:00",
+  "title": "KKO:2025:16",
+  "text": "A oli toiminut osakkaana ja lakimiehenä lakiasiaintoimisto X Oy:ssä. A oli lähettänyt X Oy:ssä hoitamiaan toimeksiantoja koskevia laskuja sittemmin perustamansa lakiasiaintoimisto Y Oy:n nimissä, ja asiakkaat olivat maksaneet laskut Y Oy:lle.\nKorkein oikeus katsoi ratkaisustaan ilmenevillä perusteilla, että X Oy:n myyntisaamiset eivät olleet kavallussäännöksessä tarkoitetulla tavalla A:n hallussa olevia varoja. A ei siten ollut asiakkaiden maksusuorituksia edeltäneenä aikana syyllistynyt rikoslain 28 luvun 4 §:n 1 momentissa tarkoitettuun esinekavallukseen. Kun A ei ollut saanut varoja haltuunsa mainitun pykälän 3 momentin mukaisesti toimeksiannon perusteella tai muulla sellaisella tavalla, että hänelle olisi syntynyt tilitysvelvollisuus varojen arvosta, hän ei ollut syyllistynyt myöskään viimeksi mainitussa lainkohdassa tarkoitettuun saatavan kavallukseen.\nRL 28 luku 4 §\nA hade varit delägare och verksam som jurist i juridiska byrån X Ab. A hade senare grundat den juridiska byrån Y Ab och i dess namn skickat räkningar för uppdrag som hon hade skött i X Ab, och kunderna hade betalat räkningarna till Y Ab.",
+  "date": "2025-02-04",
+  "url": "https://www.finlex.fi/fi/oikeuskaytanto/korkein-oikeus/ennakkopaatokset/2025/16",
+  "ecli": "ECLI:FI:KKO:2025:16",
+  "judgment_number": "16",
+  "year": 2025,
+  "judgment_uri": null,
+  "finlex_url": "https://www.finlex.fi/fi/oikeuskaytanto/korkein-oikeus/ennakkopaatokset/2025/16",
+  "court": "Korkein oikeus",
+  "court_en": "Supreme Court",
+  "language": "fi"
+}

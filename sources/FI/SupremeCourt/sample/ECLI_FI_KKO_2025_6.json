@@ -1,0 +1,18 @@
+{
+  "_id": "ECLI_FI_KKO_2025_6",
+  "_source": "FI/SupremeCourt",
+  "_type": "case_law",
+  "_fetched_at": "2026-05-20T10:24:43.808319+00:00",
+  "title": "KKO:2025:6",
+  "text": "A ja B olivat tehneet ositussopimuksen, jossa ei ollut otettu huomioon B:lle myöhemmin määrättyä jäännösveroa. Ositussopimusta ei ollut annettu rekisteröitäväksi. Verohallinto, joka peri B:ltä eräitä vahingonkorvaussaataviaan ulosottoteitse, vaati A:ta vastaan nostamassaan takaisinsaantikanteessa osituksen peräyttämistä sillä perusteella, että B oli osituksessa luovuttanut A:lle omaisuuttaan huomattavasti enemmän kuin hän olisi ollut velvollinen luovuttamaan.\nKorkein oikeus katsoi, että jäännösverovelka, jonka peruste oli ajalta ennen ositusperusteen syntyhetkeä, oli otettava huomioon osituksen peräytymisen edellytyksiä arvioitaessa. Merkitystä ei ollut sillä, että jäännösverovelka oli vanhentunut ositusperusteen syntyhetken jälkeen. (Ään.)\nUK 3 luku 84 §\nTakSL 9 §\nAL 104 §\nA och B hade ingått ett avvittringsavtal i vilket inte hade beaktats en kvarskatt som senare hade påförts B. Avvittringsavtalet hade inte getts in för registrering. Skatteförvaltningen, som drev in vissa av sina skadeståndsfordringar på B genom utsökning, yrkade i sin återvinningstalan mot A att avvittringen skulle gå åter på den grunden att B vid avvittringen hade överlåtit avsevärt mera av sin egendom till A än han hade varit skyldig att överlåta.",
+  "date": "2025-01-14",
+  "url": "https://www.finlex.fi/fi/oikeuskaytanto/korkein-oikeus/ennakkopaatokset/2025/6",
+  "ecli": "ECLI:FI:KKO:2025:6",
+  "judgment_number": "6",
+  "year": 2025,
+  "judgment_uri": null,
+  "finlex_url": "https://www.finlex.fi/fi/oikeuskaytanto/korkein-oikeus/ennakkopaatokset/2025/6",
+  "court": "Korkein oikeus",
+  "court_en": "Supreme Court",
+  "language": "fi"
+}

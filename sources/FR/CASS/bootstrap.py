@@ -744,7 +744,7 @@ def main():
     bootstrap_parser = subparsers.add_parser("bootstrap", help="Initial data fetch")
     bootstrap_parser.add_argument("--sample", action="store_true", help="Fetch sample only")
     bootstrap_parser.add_argument("--full", action="store_true", help="Full fetch from global dump")
-    bootstrap_parser.add_argument("--count", type=int, default=15, help="Number of samples")
+    bootstrap_parser.add_argument("--sample-size", type=int, default=15, help="Number of samples")
     bootstrap_parser.add_argument("--no-checkpoint", action="store_true", help="Disable checkpoint (start fresh)")
 
     # Updates command
@@ -775,8 +775,8 @@ def main():
 
     if args.command == "bootstrap":
         if args.sample:
-            print(f"Fetching {args.count} sample case law records...")
-            records = fetch_sample(session, args.count)
+            print(f"Fetching {args.sample_size} sample case law records...")
+            records = fetch_sample(session, args.sample_size)
             if records:
                 save_samples(records)
                 update_status(len(records), 0, len(records))

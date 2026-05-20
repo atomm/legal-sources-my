@@ -611,7 +611,7 @@ def main():
     )
 
     parser.add_argument(
-    "--count",
+    "--sample-size",
     type=int,
     default=12,
     help="Number of sample records to fetch (default: 12)",
@@ -667,7 +667,7 @@ def main():
             sample_dir = Path(__file__).parent / "sample"
             sample_dir.mkdir(exist_ok=True)
 
-            samples = scraper.fetch_sample(count=args.count)  # ← was count=12
+            samples = scraper.fetch_sample(count=args.sample_size)  # ← was count=12
 
             for i, doc in enumerate(samples, 1):
                 filename = sample_dir / f"sample_{i:02d}.json"
