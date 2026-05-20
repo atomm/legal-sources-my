@@ -56,3 +56,4 @@ logs/
 
 # ── Checkpoints (VPS-only, restart state) ────────────────────
 .checkpoint.json
+ls-env
