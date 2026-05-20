@@ -373,7 +373,7 @@ def main():
         bootstrap_path = source_dir / "bootstrap.py"
         if bootstrap_path.exists():
             print(f"Testing {source_id}...")
-            import subprocess
+            #import subprocess
             result = subprocess.run(
                 [sys.executable, str(bootstrap_path), "bootstrap", "--sample"],
                 capture_output=True, text=True
@@ -394,7 +394,8 @@ def main():
         if bootstrap_path.exists():
             print(f"Running sample for {source_id}...")
             result = subprocess.run(
-                [sys.executable, str(bootstrap_path), "bootstrap", "--sample", "--sample-size", "10"],
+                #[sys.executable, str(bootstrap_path), "bootstrap", "--sample", "--sample-size", "10"],
+                [sys.executable, str(bootstrap_path), "bootstrap", "--sample", "--count", "10"],
                 capture_output=True, text=True
             )
             print(result.stdout)
