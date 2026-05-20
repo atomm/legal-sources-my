@@ -1,19 +1,20 @@
 {
-  "_id": "ECLI:NL:HR:2026:757",
+  "_id": "ECLI:NL:HR:2026:626",
   "_source": "NL/SupremeCourt",
   "_type": "case_law",
-  "_fetched_at": "2026-05-20T10:43:13.533802+00:00",
-  "title": "ECLI:NL:HR:2026:757 Hoge Raad , 19-05-2026 / 24/01937",
-  "text": "HOGE RAAD DER NEDERLANDEN\nSTRAFKAMER\nNummer\n24/01937 P\nDatum\n19 mei 2026\nARREST\nop het beroep in cassatie tegen een uitspraak van het gerechtshof Arnhem-Leeuwarden van 8 mei 2024, nummer 21-000674-23, op een vordering tot ontneming van wederrechtelijk verkregen voordeel ten laste\nvan\n[betrokkene],\ngeboren in [geboorteplaats] op [geboortedatum] 1990,\nhierna: de betrokkene.\n1\nProcesverloop in cassatie\nHet beroep is ingesteld door de betrokkene. Namens deze heeft de advocaat J.O.A.N. de Vries bij schriftuur cassatiemiddelen voorgesteld.\nDe advocaat-generaal P.H.P.H.M.C. van Kempen heeft geconcludeerd tot verwerping van het beroep.\nDe raadsvrouw van de betrokkene heeft daarop schriftelijk gereageerd.\n2\nBeoordeling van de cassatiemiddelen\nDe Hoge Raad heeft de klachten over de uitspraak van het hof beoordeeld. De uitkomst hiervan is dat deze klachten niet kunnen leiden tot vernietiging van die uitspraak. De Hoge Raad hoeft niet te motiveren waarom hij tot dit oordeel is gekomen. Bij de beoordeling van deze klachten is het namelijk niet nodig om antwoord te geven op vragen die van belang zijn voor de eenheid of de ontwikkeling van het recht (zie artikel 81 lid 1 van de Wet op de rechterlijke organisatie).\n3\nBeslissing\nDe Hoge Raad verwerpt het beroep.\nDit arrest is gewezen door de vice-president M.J. Borgers als voorzitter, en de raadsheren C.N. Dalebout en R. Kuiper, in bijzijn van de waarnemend griffier S.P.J. Lugtenburg, en uitgesproken ter openbare terechtzitting van\n19 mei 2026\n.",
+  "_fetched_at": "2026-05-20T15:22:33.142762+00:00",
+  "title": "ECLI:NL:HR:2026:626 Hoge Raad , 19-05-2026 / 24/02518",
+  "text": "HOGE RAAD DER NEDERLANDEN\nSTRAFKAMER\nNummer\n24/02518\nDatum\n19 mei 2026\nARREST\nop het beroep in cassatie tegen een arrest van het gerechtshof Amsterdam van 2 juli 2024, nummer 23-004472-17, in de strafzaak\ntegen\n[verdachte],\ngeboren in [geboorteplaats] op [geboortedatum] 1980,\nhierna: de verdachte.\n1\nProcesverloop in cassatie\nHet beroep is ingesteld door de verdachte. Namens deze heeft de advocaat D. Bektesevic bij schriftuur een cassatiemiddel voorgesteld.\nDe advocaat-generaal P.H.P.H.M.C. van Kempen heeft geconcludeerd tot verwerping van het beroep.\n2\nBeoordeling van het cassatiemiddel\nDe Hoge Raad heeft de klachten over de uitspraak van het hof beoordeeld. De uitkomst hiervan is dat deze klachten niet kunnen leiden tot vernietiging van die uitspraak. De Hoge Raad hoeft niet te motiveren waarom hij tot dit oordeel is gekomen. Bij de beoordeling van deze klachten is het namelijk niet nodig om antwoord te geven op vragen die van belang zijn voor de eenheid of de ontwikkeling van het recht (zie artikel 81 lid 1 van de Wet op de rechterlijke organisatie).\n3\nBeslissing\nDe Hoge Raad verwerpt het beroep.\nDit arrest is gewezen door de vice-president V. van den Brink als voorzitter, en de raadsheren T. Kooijmans en F. Damsteegt, in bijzijn van de waarnemend griffier H.J.S. Kea, en uitgesproken ter openbare terechtzitting van\n19 mei 2026\n.",
   "date": "2026-05-19",
-  "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:757",
-  "ecli": "ECLI:NL:HR:2026:757",
-  "case_number": "24/01937",
+  "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:626",
+  "ecli": "ECLI:NL:HR:2026:626",
+  "case_number": "24/02518",
   "court": "Hoge Raad",
   "subject_area": "Rechtsgebied",
   "procedure_type": "Procedure",
-  "summary": "Profijtontneming, w.v.v. uit hennepteelt. Motivering schatting w.v.v. 1. Heeft hof w.v.v. bepaald zonder dat verkrijging daarvan door betrokkene daadwerkelijk vaststaat? 2. Uitdrukkelijk onderbouwd standpunt dat w.v.v. nihil dan wel aanzienlijk lager was i.v.m. lager aantal planten t.t.v. eerste oogst, slecht oogstresultaat en verdeling van voordeel met medepleger, art. 359.2 Sv. HR: art. 81.1 RO.",
+  "summary": "Medeplegen witwassen van geldbedrag (€ 230.000) in tas achter bijrijdersstoel van een door verdachte bestuurde auto, art. 420bis.1.b Sr. Bewijsklachten voorhanden hebben en medeplegen. Hebben verdachte en medeverdachte de tas met € 230.000 bewust aanwezig en derhalve voorhanden gehad? HR: art. 81.1 RO. Samenhang met 24/02516 en 24/02580.",
   "related_cases": [
-    "ECLI:NL:PHR:2026:116"
+    "ECLI:NL:PHR:2026:205",
+    "ECLI:NL:GHAMS:2024:1844"
   ]
 }

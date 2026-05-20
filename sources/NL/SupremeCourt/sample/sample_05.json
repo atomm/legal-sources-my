@@ -1,19 +1,19 @@
 {
-  "_id": "ECLI:NL:HR:2026:742",
+  "_id": "ECLI:NL:HR:2026:739",
   "_source": "NL/SupremeCourt",
   "_type": "case_law",
-  "_fetched_at": "2026-05-20T10:42:59.993218+00:00",
-  "title": "ECLI:NL:HR:2026:742 Hoge Raad , 01-05-2026 / 24/03547",
-  "text": "HOGE RAAD DER NEDERLANDEN\nBELASTINGKAMER\nNummer\n24/03547\nDatum\n1 mei 2026\nARREST\nin de zaak van\n[X] (hierna: belanghebbende)\ntegen\nde STAATSSECRETARIS VAN FINANCIËN\nop het beroep in cassatie tegen de uitspraak van het Gerechtshof 's-Hertogenbosch van 14 augustus 2024, nr. 22/2324\n, op het hoger beroep van belanghebbende tegen een uitspraak van de Rechtbank Zeeland-West-Brabant (nr. BRE 21/2360) betreffende een verzoek om ambtshalve vermindering van de aan belanghebbende voor het jaar 2017 opgelegde aanslag in de inkomstenbelasting/premie volksverzekeringen en daarbij gegeven beschikking inzake belastingrente.\n1\nGeding in cassatie\nBelanghebbende heeft tegen de uitspraak van het Hof beroep in cassatie ingesteld.\nDe Staatssecretaris, vertegenwoordigd door [P], heeft een verweerschrift ingediend.\nNa afloop van de cassatietermijn heeft belanghebbende een nader stuk ingediend. Op de inhoud daarvan slaat de Hoge Raad geen acht.\n2\nBeoordeling van de klachten\nDe Hoge Raad heeft de klachten over de uitspraak van het Hof beoordeeld. De uitkomst hiervan is dat deze klachten niet kunnen leiden tot vernietiging van die uitspraak. De Hoge Raad hoeft niet te motiveren waarom hij tot dit oordeel is gekomen. Bij de beoordeling van deze klachten is het namelijk niet nodig om antwoord te geven op vragen die van belang zijn voor de eenheid of de ontwikkeling van het recht (zie artikel 81, lid 1, van de Wet op de rechterlijke organisatie).\n3\nProceskosten\nDe Hoge Raad ziet geen aanleiding voor een veroordeling in de proceskosten.\n4\nBeslissing\nDe Hoge Raad verklaart het beroep in cassatie ongegrond.\nDit arrest is gewezen door de raadsheer M.W.C. Feteris als voorzitter, en de raadsheren M.T. Boerlage en A.E.H. van der Voort Maarschalk, in tegenwoordigheid van de waarnemend griffier J.P.J. van Kampen, en in het openbaar uitgesproken op 1 mei 2026.\nECLI:NL:GHSHE:2024:2584.",
+  "_fetched_at": "2026-05-20T15:22:19.714787+00:00",
+  "title": "ECLI:NL:HR:2026:739 Hoge Raad , 01-05-2026 / 25/02784",
+  "text": "HOGE RAAD DER NEDERLANDEN\nBELASTINGKAMER\nNummer\n25/02784\nDatum\n1 mei 2026\nARREST\nin de zaak van\nGEMEENTE [X] (hierna: belanghebbende)\ntegen\nde STAATSSECRETARIS VAN FINANCIËN\nop het beroep in cassatie tegen de uitspraak van het Gerechtshof Arnhem-Leeuwarden van 22 juli 2025, nr. BK-ARN 23/2796\n, op het hoger beroep van de Inspecteur tegen een uitspraak van de Rechtbank Gelderland (nr. ARN 22/4316) betreffende het door belanghebbende afgedragen bedrag aan loonheffingen over het tijdvak februari 2021.\n1\nGeding in cassatie\nBelanghebbende, vertegenwoordigd door P. van Barneveld, heeft tegen de uitspraak van het Hof beroep in cassatie ingesteld.\nDe Staatssecretaris, vertegenwoordigd door [P], heeft een verweerschrift ingediend.\n2\nBeoordeling van de middelen\nDe Hoge Raad heeft de klachten over de uitspraak van het Hof beoordeeld. De uitkomst hiervan is dat deze klachten niet kunnen leiden tot vernietiging van die uitspraak. De Hoge Raad hoeft niet te motiveren waarom hij tot dit oordeel is gekomen. Bij de beoordeling van deze klachten is het namelijk niet nodig om antwoord te geven op vragen die van belang zijn voor de eenheid of de ontwikkeling van het recht (zie artikel 81, lid 1, van de Wet op de rechterlijke organisatie).\n3\nProceskosten\nDe Hoge Raad ziet geen aanleiding voor een veroordeling in de proceskosten.\n4\nBeslissing\nDe Hoge Raad verklaart het beroep in cassatie ongegrond.\nDit arrest is gewezen door de vice-president J.A.R. van Eijsden als voorzitter, en de raadsheren M.T. Boerlage en W.A.P. van Roij, in tegenwoordigheid van de waarnemend griffier J.P.J. van Kampen, en in het openbaar uitgesproken op 1 mei 2026.\nECLI:NL:GHARL:2025:4602.\nVgl. HR 23 januari 2026, ECLI:NL:HR:2026:25, en HR 1 mei 2026, ECLI:NL:HR:2026:660.",
   "date": "2026-05-01",
-  "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:742",
-  "ecli": "ECLI:NL:HR:2026:742",
-  "case_number": "24/03547",
+  "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2026:739",
+  "ecli": "ECLI:NL:HR:2026:739",
+  "case_number": "25/02784",
   "court": "Hoge Raad",
   "subject_area": "Rechtsgebied",
   "procedure_type": "Procedure",
   "summary": "HR: 81.1 RO.",
   "related_cases": [
-    "ECLI:NL:GHSHE:2024:2584"
+    "ECLI:NL:GHARL:2025:4602"
   ]
 }
